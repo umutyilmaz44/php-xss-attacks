@@ -2,7 +2,7 @@
 
 **_1- PHP Security: Include/require file extensions:_**  
 > Dosya isimleri php uzantılı olmalı, yorumlayıcı sadece php olunca sensitive verileri gizliyor  
-> [video-1](https://www.youtube.com/watch?v=mCwAsvNdPRs&list=PLfdtiltiRHWFsPxAGO-SVPGhCbCwKWF_N&index=1). 
+> <a href="https://www.youtube.com/watch?v=mCwAsvNdPRs&list=PLfdtiltiRHWFsPxAGO-SVPGhCbCwKWF_N&index=1" target="_blank">video-1</a>. 
 
 
 **_2- PHP Security: XSS (Cross-site Scripting):_**
